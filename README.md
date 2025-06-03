@@ -14,7 +14,7 @@ A web application that recommends academic books based on course syllabi using m
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ProjectNest.git
+git clone https://github.com/KadariPavani/Syllabus-Nexus.git
 cd ProjectNest
 ```
 
